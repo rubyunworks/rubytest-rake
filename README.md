@@ -1,3 +1,16 @@
+> **This project is retired.**
+>
+> As of rubytest 0.11.0 (2026-11), the Rake task is built into
+> [rubytest](https://github.com/rubyworks/rubytest): `require
+> 'rubytest/rake'` in your Rakefile, in place of `require 'rubytest-rake'`,
+> for the same `Test::Rake::TestTask`. This gem is no longer needed, and it
+> does not work properly with rubytest 0.10 or later.
+>
+> This repository preserves rubytest-rake, last released as 0.2.0 in 2014.
+> It is no longer maintained.
+
+---
+
 # Rake for Ruby Test
 
 [Homepage](http://rubyworks.github.com/rubytest-rake) /
